@@ -1,0 +1,834 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1,🎄ТВA-22.02.2026/tva.in.ua/📺Ревизия №-1/07-10|fas-tv.com
+https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
+
+
+#EXTINF:-1 group-title="SPORT 🏆",Divi Sport
+https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",X-Stream
+http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
+#EXTINF:-1 group-title="SPORT 🏆",Окко Спорт 2
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 1 HD
+http://de.seetv.cc/play/5009/F153046F2E99D25/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 2 HD
+http://de.seetv.cc/play/5010/F153046F2E99D25/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 3 HD
+http://de.seetv.cc/play/5011/F153046F2E99D25/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 4 HD
+http://pl.seetv.cc/play/5012/F153046F2E99D25/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 5 HD
+http://de.seetv.cc/play/5013/F153046F2E99D25/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 6 HD
+http://de.seetv.cc/play/5014/F153046F2E99D25/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 7 HD
+http://de.seetv.cc/play/5015/F153046F2E99D25/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 8 HD
+http://de.seetv.cc/play/5016/F153046F2E99D25/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 10 HD
+http://de.seetv.cc/play/5018/F153046F2E99D25/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 11 HD
+http://de.seetv.cc/play/5019/F153046F2E99D25/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 12 HD
+http://de.seetv.cc/play/5020/F153046F2E99D25/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ViP Sport 13 HD
+http://de.seetv.cc/play/5021/F153046F2E99D25/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",U TV HD
+http://pl.online24.pm/play/523/F153046F2E99D25/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",МАТЧ ТВ
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",NHL (Интересные моменты)
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",setanta1 HD GEO
+http://94.43.1.138:8081/setanta1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",setanta2 HD GEO
+http://94.43.1.138:8081/setanta2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 1 GE
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
+http://178.134.1.158:8081/eurosport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч
+https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SPORT!!!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆", planeta
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
+#EXTINF:-1 group-title="SPORT 🏆",Бокс ТВ
+http://158.101.222.193:88/georgia_play.php?id=boxtv
+#EXTINF:-1 group-title="SPORT 🏆",Sport 1 HD
+http://87.246.54.249:8080/ArenaSport1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 2 HD
+http://87.246.54.249:8080/ArenaSport2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 3 HD
+http://87.246.54.249:8080/ArenaSport3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 4 HD
+http://87.246.54.249:8080/ArenaSport4/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
+http://5.188.221.43:8080/play/match
+#EXTINF:-1 group-title="SPORT 🏆",Беларусь 5 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",KHL HD
+http://86.57.209.210/KHL_HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",КХЛ ТВ
+http://45.145.32.13:20440/telekanal_khl/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Матч HD
+http://45.145.32.13:20440/match_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
+http://45.145.32.13:20440/match/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Арена
+http://45.145.32.13:20440/match_arena/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Арена HD
+http://45.145.32.13:20440/match_arena_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Боец
+http://45.145.32.13:20440/match_boets/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Игра
+http://45.145.32.13:20440/match_igra/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Игра HD
+http://45.145.32.13:20440/match_igra_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Страна
+http://45.145.32.13:20440/match_strana/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Футбол 1
+http://45.145.32.13:20440/match_football1/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Футбол 1 HD
+http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Футбол 2
+http://45.145.32.13:20440/match_football2/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Футбол 2 HD
+http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Футбол 3
+http://45.145.32.13:20440/match_football3/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",sport Футбол 3 HD
+http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Мир баскетбола
+http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Viasat Sport
+http://45.145.32.13:20440/viasat_sport/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Extreme sports
+http://45.145.32.13:20440/extreme_sports/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Trace Sport Stars HD
+https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Uzreport HD
+https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",UzSport
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 1 HD
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 2 HD
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",KHL
+https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч! Планета
+https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Viasat Sport
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",KHL
+https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Super Sport 1 HD Alb
+http://195.181.169.152:8080/Super_Sport_1_HD_AL/video.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Super Sport 2 HD Alb
+http://195.181.169.152:8080/Super_Sport_2_HD_AL/video.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Super Sport 3 HD Alb
+http://195.181.169.152:8080/Super_Sport_3_HD_AL/video.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Super Sport 4 HD Alb
+http://195.181.169.152:8080/Super_Sport_4_HD_AL/video.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_1
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_2
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_4
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Premier_Sports_5
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",CT SPORT HD
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SPORT 1 HD
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SPORT 2 HD
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Diema Sport HD
+http://87.246.54.249:8080/DiemaSport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Diema Sport2 HD
+http://87.246.54.249:8080/DiemaSport2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Diema Sport3 HD
+http://87.246.54.249:8080/DiemaSport3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",NovaSport
+http://87.246.54.249:8080/NovaSport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",MaxSport1 HD
+http://87.246.54.249:8080/MaxSport1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",MaxSport2 HD
+http://87.246.54.249:8080/MaxSport2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",MaxSport3 HD
+http://87.246.54.249:8080/MaxSport3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",MaxSport4 HD
+http://87.246.54.249:8080/MaxSport4/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport
+http://87.246.54.249:8080/Eurosport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport2
+http://87.246.54.249:8080/Eurosport2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",ACI SportTV HD
+http://87.246.54.249:8080/SportTV/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",RING
+http://87.246.54.249:8080/RING/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
+http://31.131.141.195:8000/play/1030/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 1 Israel
+http://185.132.134.159:80/sport1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 2 Israel
+http://185.132.134.159:80/sport2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 3 Israel
+http://185.132.134.159:80/sport3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 4 Israel
+http://185.132.134.159:80/sport4/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 5 Israel
+http://185.132.134.159:80/sport5/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sport 6 Israel
+http://185.132.134.159:80/sport6/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SporTV HD Pt (Португалия)
+https://02.arlivre.online/sportv/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SporTV 2 HD Pt
+https://02.arlivre.online/sportv2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SporTV 3 HD Pt
+https://02.arlivre.online/sportv3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",BAND Sport HD Pt
+https://02.arlivre.online/bandsport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Combate HD Pt
+https://02.arlivre.online/combate/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Espn HD Pt
+https://02.arlivre.online/espn/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Espn 2 HD Pt
+https://02.arlivre.online/espn2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Espn 3 HD Pt
+https://02.arlivre.online/espn3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Espn 4 HD Pt
+https://02.arlivre.online/espn4/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 1 HD Pt
+https://02.arlivre.online/pre1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 2 HD Pt
+https://02.arlivre.online/pre2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 3 HD Pt
+https://02.arlivre.online/pre3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 4 HD Pt
+https://02.arlivre.online/pre4/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",PREMIERE 5 HD Pt
+https://02.arlivre.online/pre5/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Turkmen Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Sports Grid
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SPORT 🏆",Real Madrid
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",TOP Barca
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",CANAL MOTOR
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",AYM HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4610
+#EXTINF:-1 group-title="SPORT 🏆",DAZN Combat German
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",UFC Network
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Motor sport revue HD
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Bein EXTRAS
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",UNBEATEN
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",TNT Sport 1
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="SPORT 🏆",TNT Sport 2
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="SPORT 🏆",TNT Sport 3
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="SPORT 🏆",TNT Sport 4
+https://7pal.short.gy/tntspts4
+EXTINF:-1 group-title="SPORT 🏆",Eleven Sports 1 4K
+https://7pal.short.gy/11sports1
+#EXTINF:-1 group-title="SPORT 🏆",Fox Sports 01
+https://7pal.short.gy/fox501au
+#EXTINF:-1 group-title="SPORT 🏆",Fox Sports 02
+https://7pal.short.gy/fox502au
+#EXTINF:-1 group-title="SPORT 🏆",Fox Sports 03
+https://7pal.short.gy/fox503au
+#EXTINF:-1 group-title="SPORT 🏆",Fox Sports 04
+https://7pal.short.gy/fox504au
+#EXTINF:-1 group-title="SPORT 🏆",Fox Sports 05
+https://7pal.short.gy/fox505au
+#EXTINF:-1 group-title="SPORT 🏆",Fox Sports 06
+https://7pal.short.gy/fox506au
+#EXTINF:-1 group-title="SPORT 🏆",Fox Sports 07
+https://7pal.short.gy/fox507au
+#EXTINF:-1 group-title="SPORT 🏆",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆" tvg-id="82e3fcab219bfeaaff332e60e63801e5" ,CZ EUROSPORT22
+http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
+#EXTINF:-1 group-title="SPORT 🏆" tvg-id="584e6d781e08d1eb35bf2ad1bd4b220c" ,CZ PREMIER SPORT1 T3
+http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
+#EXTINF:-1 group-title="SPORT 🏆",Arena Sport 1 HD
+http://169.150.223.25/ArenaSport1HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Arena Sport 2 HD
+http://169.150.223.25/ArenaSport2HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Arena Sport 3 HD
+http://169.150.223.25/ArenaSport3HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Arena Sport 4 HD
+http://169.150.223.25/ArenaSport4HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Arena Sport 5 HD
+http://169.150.223.25/ArenaSport5HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Arena Sport 6 HD
+http://169.150.223.25/ArenaSport6HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Arena Sport 7 HD
+http://169.150.223.25/ArenaSport7HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Arena Sport 9 HD
+http://169.150.223.25/ArenaSport9HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Arena Sport 10 HD
+http://169.150.223.25/ArenaSport10HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Arena Premium 1 HD
+http://169.150.223.25/ArenaPremium1HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Arena Premium 2 HD
+http://169.150.223.25/ArenaPremium2HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Arena Premium 3 HD
+http://169.150.223.25/ArenaPremium3HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Art Sport 1 HD
+http://169.150.223.25/ArtSport1HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Art Sport 2 HD
+http://169.150.223.25/ArtSport2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Art Sport 3 HD
+http://169.150.223.25/ArtSport3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Art Sport 4 HD
+http://169.150.223.25/ArtSport4/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Art Sport 5 HD
+http://169.150.223.25/ArtSport5/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Art Sport 6 HD
+http://169.150.223.25/ArtSport6/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 1 HD
+http://169.150.223.25/Eurosport1HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Euro Sport 2 HD
+http://169.150.223.25/Eurosport2HD/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Fight Network HD
+http://169.150.223.25/FightNetwork/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",RAI 1 HD
+http://169.150.223.25/Rai1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",RAI 2 HD
+http://169.150.223.25/Rai2/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Rai 3 HD
+http://169.150.223.25/Rai3/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Rai Sport HD
+http://169.150.223.25/RaiSport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 1
+http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 2
+http://stream-msk-07.ott.tricolor.tv/dtv/id732_MSKSG-PVR-1--Nash_khokkey2/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 3
+http://stream-msk-05.ott.tricolor.tv/dtv/id728_MSKSG-PVR-1--Nash_khokkey3/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 4
+http://stream-msk-07.ott.tricolor.tv/dtv/id834_MSKSG-PVR-1--Nash_khokkey4/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 5
+http://stream-msk-03.ott.tricolor.tv/dtv/id730_MSKSG-PVR-1--Nash_khokkey5/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 6
+http://stream-msk-08.ott.tricolor.tv/dtv/id740_MSKSG-PVR-1--Nash_khokkey6/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 7
+http://stream-msk-09.ott.tricolor.tv/dtv/id741_MSKSG-PVR-1--Nash_khokkey7/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 8
+http://stream-msk-04.ott.tricolor.tv/dtv/id747_MSKSG-PVR-1--Nash_khokkey8/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 9
+http://stream-msk-08.ott.tricolor.tv/dtv/id749_MSKSG-PVR-1--Nash_khokkey9/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 10
+http://stream-msk-04.ott.tricolor.tv/dtv/id797_MSKSG-PVR-1--Nash_sport10/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 11
+http://stream-msk-11.ott.tricolor.tv/dtv/id798_MSKSG-PVR-1--Nash_sport11/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 12
+http://stream-msk-05.ott.tricolor.tv/dtv/id799_MSKSG-PVR-1--Nash_sport12/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 13
+http://stream-msk-10.ott.tricolor.tv/dtv/id800_MSKSG-PVR-1--Nash_sport13/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 14
+http://stream-msk-08.ott.tricolor.tv/dtv/id817_MSKSG-PVR-1--Nash_sport14/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 15
+http://stream-msk-10.ott.tricolor.tv/dtv/id804_MSKSG-PVR-1--Nash_sport15/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 16
+http://stream-msk-13.ott.tricolor.tv/dtv/id806_MSKSG-PVR-1--Nash_sport16/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 17
+http://stream-msk-03.ott.tricolor.tv/dtv/id807_MSKSG-PVR-1--Nash_sport17/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 18
+http://stream-msk-12.ott.tricolor.tv/dtv/id808_MSKSG-PVR-1--Nash_sport18/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 19
+http://stream-msk-07.ott.tricolor.tv/dtv/id809_MSKSG-PVR-1--Nash_sport19/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 20
+http://stream-msk-08.ott.tricolor.tv/dtv/id810_MSKSG-PVR-1--Nash_sport20/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 21
+http://stream-msk-05.ott.tricolor.tv/dtv/id814_MSKSG-PVR-1--Nash_sport21/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 22
+http://stream-msk-13.ott.tricolor.tv/dtv/id812_MSKSG-PVR-1--Nash_sport23/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 23
+http://stream-msk-09.ott.tricolor.tv/dtv/id813_MSKSG-PVR-1--Nash_sport24/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 24
+https://stream-msk-09.ott.tricolor.tv:443/dtv/id813_MSKSG-PVR-1--Nash_sport24/01/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 25
+https://stream-msk-13.ott.tricolor.tv:443/dtv/id881_MSKSG-PVR-1--Nash_sport25/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 26
+https://stream-msk-14.ott.tricolor.tv:443/dtv/id875_MSKSG-PVR-1--Nash_sport26/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 27
+https://stream-msk-01.ott.tricolor.tv:443/dtv/id876_MSKSG-PVR-1--Nash_sport27/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 28
+https://stream-msk-09.ott.tricolor.tv:443/dtv/id877_MSKSG-PVR-1--Nash_sport28/03/plst.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Tr VPN SPORT 29
+https://stream-msk-11.ott.tricolor.tv:443/dtv/id878_MSKSG-PVR-1--Nash_sport29/03/plst.m3u8
+
+
+#EXTINF:0 tvg-name="Eurosport" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Eurosport
+http://gr.seetv.cc/play/15/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Eurosport HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Eurosport HD
+http://gr.seetv.cc/play/145/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Eurosport 2" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Eurosport 2
+http://gr.seetv.cc/play/43/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Eurosport 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Eurosport 2 HD
+http://gr.seetv.cc/play/361/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! ПРЕМЬЕР" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! ПРЕМЬЕР
+http://gr.seetv.cc/play/37/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч Премьер HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч Премьер HD
+http://gr.seetv.cc/play/250/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч Арена" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч Арена
+http://gr.seetv.cc/play/136/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! Арена HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Арена HD
+http://gr.seetv.cc/play/146/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! Планета" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Планета
+http://gr.seetv.cc/play/14/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч ТВ
+http://gr.seetv.cc/play/5/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! HD
+http://gr.seetv.cc/play/397/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! 50fps" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! 50fps
+http://gr.seetv.cc/play/680/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! Боец HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Боец HD
+http://gr.seetv.cc/play/30/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="МАТЧ! Страна" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",МАТЧ! Страна
+http://gr.seetv.cc/play/134/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! Страна HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Страна HD
+http://gr.seetv.cc/play/212/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! Игра" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Игра
+http://gr.seetv.cc/play/153/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! Игра HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Игра HD
+http://gr.seetv.cc/play/268/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! Футбол 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Футбол 1 HD
+http://gr.seetv.cc/play/260/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч Футбол 1" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч Футбол 1
+http://gr.seetv.cc/play/54/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! Футбол 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Футбол 2 HD
+http://gr.seetv.cc/play/271/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Матч! Футбол 3 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Матч! Футбол 3 HD
+http://gr.seetv.cc/play/329/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Megogo Спорт HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",M Спорт HD
+http://gr.seetv.cc/play/1001/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Megogo Футбол 5 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",M Футбол 5 HD
+http://gr.seetv.cc/play/10011/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports Premium HD" group-title="TEST-SPORT 🏆",Setanta Sports Premium HD
+http://gr.seetv.cc/play/1650/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports Ukraine" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Setanta Sports Ukraine
+http://gr.seetv.cc/play/1434/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports+ Ukraine" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Setanta Sports+ Ukraine
+http://gr.seetv.cc/play/9957/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Setanta Sports 1 HD
+http://gr.seetv.cc/play/942/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Setanta Sports 2 HD
+http://gr.seetv.cc/play/943/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Setanta Qazaqstan" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Setanta Qazaqstan
+http://gr.seetv.cc/play/5094/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Setanta Sports HD MD" group-title="TEST-SPORT 🏆",Setanta Sports HD MD
+http://gr.seetv.cc/play/11008/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Суспільне Спорт" group-title="TEST-SPORT 🏆",Суспільне Спорт
+http://gr.seetv.cc/play/316/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="DiviSport" group-title="TEST-SPORT 🏆",DiviSport
+http://gr.seetv.cc/play/315/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Dynamo Kyiv TV" group-title="TEST-SPORT 🏆",Dynamo Kyiv TV
+http://gr.seetv.cc/play/8797/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Футбол" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Футбол
+http://gr.seetv.cc/play/171/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Футбол HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Футбол HD
+http://gr.seetv.cc/play/3920/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Viju+ Sport" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Viju+ Sport
+http://gr.seetv.cc/play/77/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Viju+ Sport HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Viju+ Sport HD
+http://gr.seetv.cc/play/198/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Окко Спорт HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Окко Спорт HD
+http://gr.seetv.cc/play/7337/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Окко Футбол HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Окко Футбол HD
+http://gr.seetv.cc/play/7338/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name=" Окко.Прайм Спорт" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆", Окко.Прайм Спорт
+http://gr.seetv.cc/play/1833/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Старт Триумф HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Старт Триумф HD
+http://gr.seetv.cc/play/7375/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Старт HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Старт HD
+http://gr.seetv.cc/play/9946/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Конный мир HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Конный мир HD
+http://gr.seetv.cc/play/394/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="КХЛ" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",КХЛ
+http://gr.seetv.cc/play/149/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="KHL Prime" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",KHL Prime
+http://gr.seetv.cc/play/177/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Хоккейный" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Хоккейный
+http://gr.seetv.cc/play/6160/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Бокс ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Бокс ТВ
+http://gr.seetv.cc/play/482/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Sport 1 UA" group-title="TEST-SPORT 🏆",Sport 1 UA
+http://gr.seetv.cc/play/2638/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Sport 2 UA" group-title="TEST-SPORT 🏆",Sport 2 UA
+http://gr.seetv.cc/play/2639/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Sport 3 UA HD" group-title="TEST-SPORT 🏆",Sport 3 UA HD
+http://gr.seetv.cc/play/2640/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Sport 4 UA" group-title="TEST-SPORT 🏆",Sport 4 UA
+http://gr.seetv.cc/play/2641/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="NBA TV" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",NBA TV
+http://gr.seetv.cc/play/9984/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Мир Баскетбола" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Мир Баскетбола
+http://gr.seetv.cc/play/8831/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Мяч" group-title="TEST-SPORT 🏆",Мяч
+http://gr.seetv.cc/play/1763/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Авто Плюс" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Авто Плюс
+http://gr.seetv.cc/play/29/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Extreme Sports" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Extreme Sports
+http://gr.seetv.cc/play/53/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Спортивный" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Спортивный
+http://gr.seetv.cc/play/6159/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="UDAR" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",UDAR
+http://gr.seetv.cc/play/4111/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Живи активно HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Живи активно HD
+http://gr.seetv.cc/play/1771/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="UFC ТВ HD" group-title="TEST-SPORT 🏆",UFC ТВ HD
+http://gr.seetv.cc/play/1777/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="MMA-TV HD" group-title="TEST-SPORT 🏆",MMA-TV HD
+http://gr.seetv.cc/play/3795/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Xsport HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Xsport HD
+http://gr.seetv.cc/play/480/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Xsport+ HD" group-title="TEST-SPORT 🏆",Xsport+ HD
+http://gr.seetv.cc/play/2635/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Equalympic HD" group-title="TEST-SPORT 🏆",Equalympic HD
+http://gr.seetv.cc/play/8788/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Русский Экстрим" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Р Экстрим
+http://gr.seetv.cc/play/345/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Точка отрыва" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Точка отрыва
+http://gr.seetv.cc/play/601/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Авто 24" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Авто 24
+http://gr.seetv.cc/play/256/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Cars & Stars TV HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Cars & Stars TV HD
+http://gr.seetv.cc/play/9904/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="FightBox" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",FightBox
+http://gr.seetv.cc/play/8790/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="TRACE Sport Stars" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",TRACE Sport Stars
+http://gr.seetv.cc/play/9907/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Fast&FunBox" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Fast&FunBox
+http://gr.seetv.cc/play/8792/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="MAINCAST SPORT " group-title="TEST-SPORT 🏆",MAINCAST SPORT
+http://gr.seetv.cc/play/1994/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Tennis+" group-title="TEST-SPORT 🏆",Tennis+
+http://gr.seetv.cc/play/1889/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="UPL.TV HD" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",U.TV HD
+http://gr.seetv.cc/play/523/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="QazSport" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",QazSport
+http://gr.seetv.cc/play/1841/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Q Arena" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Q Arena
+http://gr.seetv.cc/play/1842/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Q Sport League" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Q Sport League
+http://gr.seetv.cc/play/1843/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Sport+ Qazaqstan" catchup="shift" timeshift="5" catchup-days="5" group-title="TEST-SPORT 🏆",Sport+ Qazaqstan
+http://gr.seetv.cc/play/1844/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_1_HD" group-title="TEST-SPORT 🏆",BOX_SPORT_LIVE_1_HD
+http://gr.seetv.cc/play/51013/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_2_HD" group-title="TEST-SPORT 🏆",BOX_SPORT_LIVE_2_HD
+http://gr.seetv.cc/play/51014/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_3_HD" group-title="TEST-SPORT 🏆",BOX_SPORT_LIVE_3_HD
+http://gr.seetv.cc/play/51015/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_4_HD" group-title="TEST-SPORT 🏆",BOX_SPORT_LIVE_4_HD
+http://gr.seetv.cc/play/51016/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_5_HD" group-title="TEST-SPORT 🏆",BOX_SPORT_LIVE_5_HD
+http://gr.seetv.cc/play/51017/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_6_HD" group-title="TEST-SPORT 🏆",BOX_SPORT_LIVE_6_HD
+http://gr.seetv.cc/play/51018/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_7_HD" group-title="TEST-SPORT 🏆",BOX_SPORT_LIVE_7_HD
+http://gr.seetv.cc/play/51019/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_8_HD" group-title="TEST-SPORT 🏆",BOX_SPORT_LIVE_8_HD
+http://gr.seetv.cc/play/51020/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_9_HD" group-title="TEST-SPORT 🏆",BOX_SPORT_LIVE_9_HD
+http://gr.seetv.cc/play/51021/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_4K" group-title="TEST-SPORT 🏆",BOX_SPORT_LIVE_4K
+http://gr.seetv.cc/play/51022/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BeIN Sport 1 HD" group-title="TEST-SPORT 🏆",BeIN Sport 1 HD
+http://gr.seetv.cc/play/1101/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BeIN Sport 2 HD" group-title="TEST-SPORT 🏆",BeIN Sport 2 HD
+http://gr.seetv.cc/play/1102/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BeIN Sport 3 HD" group-title="TEST-SPORT 🏆",BeIN Sport 3 HD
+http://gr.seetv.cc/play/1103/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BeIN Sport 4 HD" group-title="TEST-SPORT 🏆",BeIN Sport 4 HD
+http://gr.seetv.cc/play/1104/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BeIN EXTRAS" group-title="TEST-SPORT 🏆",BeIN EXTRAS
+http://gr.seetv.cc/play/1686/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="TNT Sport 1 HD" group-title="TEST-SPORT 🏆",TNT Sport 1 HD
+http://gr.seetv.cc/play/922/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="TNT Sport 2 HD" group-title="TEST-SPORT 🏆",TNT Sport 2 HD
+http://gr.seetv.cc/play/923/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="TNT Sport 3 HD" group-title="TEST-SPORT 🏆",TNT Sport 3 HD
+http://gr.seetv.cc/play/934/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="DAZN 1 DE" group-title="TEST-SPORT 🏆",DAZN 1 DE
+http://gr.seetv.cc/play/803/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="DAZN 2 DE" group-title="TEST-SPORT 🏆",DAZN 2 DE
+http://gr.seetv.cc/play/809/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Movistar Formula 1" group-title="TEST-SPORT 🏆",Movistar Formula 1
+http://gr.seetv.cc/play/1121/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Sky Sport Bundesliga HD" group-title="TEST-SPORT 🏆",Sky Sport Bundesliga HD
+http://gr.seetv.cc/play/836/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Live Sport 1" group-title="TEST-SPORT 🏆",Live Sport 1
+http://gr.seetv.cc/play/1580/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Live Sport 2" group-title="TEST-SPORT 🏆",Live Sport 2
+http://gr.seetv.cc/play/1581/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 1" group-title="TEST-SPORT 🏆",Football Live 1
+http://gr.seetv.cc/play/1704/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 2" group-title="TEST-SPORT 🏆",Football Live 2
+http://gr.seetv.cc/play/1705/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 3" group-title="TEST-SPORT 🏆",Football Live 3
+http://gr.seetv.cc/play/1706/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 4" group-title="TEST-SPORT 🏆",Football Live 4
+http://gr.seetv.cc/play/1707/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 5" group-title="TEST-SPORT 🏆",Football Live 5
+http://gr.seetv.cc/play/1708/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 6" group-title="TEST-SPORT 🏆",Football Live 6
+http://gr.seetv.cc/play/1709/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 7" group-title="TEST-SPORT 🏆",Football Live 7
+http://gr.seetv.cc/play/1710/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 8" group-title="TEST-SPORT 🏆",Football Live 8
+http://gr.seetv.cc/play/1711/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 9" group-title="TEST-SPORT 🏆",Football Live 9
+http://gr.seetv.cc/play/1712/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 10" group-title="TEST-SPORT 🏆",Football Live 10
+http://gr.seetv.cc/play/1713/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 11" group-title="TEST-SPORT 🏆",Football Live 11
+http://gr.seetv.cc/play/1714/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 12" group-title="TEST-SPORT 🏆",Football Live 12
+http://gr.seetv.cc/play/1715/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Football Live 13" group-title="TEST-SPORT 🏆",Football Live 13
+http://gr.seetv.cc/play/1716/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 1" group-title="TEST-SPORT 🏆",VIP Sport 1
+http://gr.seetv.cc/play/5009/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 2" group-title="TEST-SPORT 🏆",VIP Sport 2
+http://gr.seetv.cc/play/5010/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 3" group-title="TEST-SPORT 🏆",VIP Sport 3
+http://gr.seetv.cc/play/5011/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 4" group-title="TEST-SPORT 🏆",VIP Sport 4
+http://gr.seetv.cc/play/5012/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 5" group-title="TEST-SPORT 🏆",VIP Sport 5
+http://gr.seetv.cc/play/5013/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 7" group-title="TEST-SPORT 🏆",VIP Sport 7
+http://gr.seetv.cc/play/5014/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 6" group-title="TEST-SPORT 🏆",VIP Sport 6
+http://gr.seetv.cc/play/5015/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 8" group-title="TEST-SPORT 🏆",VIP Sport 8
+http://gr.seetv.cc/play/5016/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 9" group-title="TEST-SPORT 🏆",VIP Sport 9
+http://gr.seetv.cc/play/5017/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 10" group-title="TEST-SPORT 🏆",VIP Sport 10
+http://gr.seetv.cc/play/5018/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 11" group-title="TEST-SPORT 🏆",VIP Sport 11
+http://gr.seetv.cc/play/5019/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 12" group-title="TEST-SPORT 🏆",VIP Sport 12
+http://gr.seetv.cc/play/5020/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 13" group-title="TEST-SPORT 🏆",VIP Sport 13
+http://gr.seetv.cc/play/5021/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name=" ViP Sport 14" group-title="TEST-SPORT 🏆",ViP Sport 14
+http://gr.seetv.cc/play/5022/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="ViP Sport 15" group-title="TEST-SPORT 🏆",ViP Sport 15
+http://gr.seetv.cc/play/5023/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="ViP Sport 16" group-title="TEST-SPORT 🏆",ViP Sport 16
+http://gr.seetv.cc/play/5024/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="ViP Sport 17" group-title="TEST-SPORT 🏆",ViP Sport 17
+http://gr.seetv.cc/play/5025/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="betking live 1" group-title="TEST-SPORT 🏆",betking live 1
+http://gr.seetv.cc/play/5026/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="betking live 2" group-title="TEST-SPORT 🏆",betking live 2
+http://gr.seetv.cc/play/5027/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="FintGa 1" group-title="TEST-SPORT 🏆",FintGa 1
+http://gr.seetv.cc/play/5028/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="FintGa 2" group-title="TEST-SPORT 🏆",FintGa 2
+http://gr.seetv.cc/play/5029/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="FintGa 3" group-title="TEST-SPORT 🏆",FintGa 3
+http://gr.seetv.cc/play/5030/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="FintGa 4" group-title="TEST-SPORT 🏆",FintGa 4
+http://gr.seetv.cc/play/5031/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Pimple 1" group-title="TEST-SPORT 🏆",Pimple 1
+http://gr.seetv.cc/play/5032/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Pimple 2" group-title="TEST-SPORT 🏆",Pimple 2
+http://gr.seetv.cc/play/5033/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Pimple 3" group-title="TEST-SPORT 🏆",Pimple 3
+http://gr.seetv.cc/play/5034/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Pimple 4" group-title="TEST-SPORT 🏆",Pimple 4
+http://gr.seetv.cc/play/5035/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Pimple 5" group-title="TEST-SPORT 🏆",Pimple 5
+http://gr.seetv.cc/play/5036/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Pimple 6" group-title="TEST-SPORT 🏆",Pimple 6
+http://gr.seetv.cc/play/5037/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX Be ON Edge HD" group-title="TEST-SPORT 🏆",BOX Be ON Edge HD
+http://gr.seetv.cc/play/4215/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX Be ON Edge 1 Live HD" group-title="TEST-SPORT 🏆",BOX Be ON Edge 1 Live HD
+http://gr.seetv.cc/play/4213/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX Be ON Edge 2 Live HD" group-title="TEST-SPORT 🏆",BOX Be ON Edge 2 Live HD
+http://gr.seetv.cc/play/4214/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 1 HD" group-title="TEST-SPORT 🏆",BOX SportCast Live 1 HD
+http://gr.seetv.cc/play/4224/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 2 HD" group-title="TEST-SPORT 🏆",BOX SportCast Live 2 HD
+http://gr.seetv.cc/play/4225/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 3 HD" group-title="TEST-SPORT 🏆",BOX SportCast Live 3 HD
+http://gr.seetv.cc/play/4226/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 4 HD" group-title="TEST-SPORT 🏆",BOX SportCast Live 4 HD
+http://gr.seetv.cc/play/4227/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 5 HD" group-title="TEST-SPORT 🏆",BOX SportCast Live 5 HD
+http://gr.seetv.cc/play/4228/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 6 HD" group-title="TEST-SPORT 🏆",BOX SportCast Live 6 HD
+http://gr.seetv.cc/play/4232/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 7 HD" group-title="TEST-SPORT 🏆",BOX SportCast Live 7 HD
+http://gr.seetv.cc/play/4233/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 8 HD" group-title="TEST-SPORT 🏆",BOX SportCast Live 8 HD
+http://gr.seetv.cc/play/4234/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="BOX SportCast Live 9 HD" group-title="TEST-SPORT 🏆",BOX SportCast Live 9 HD
+http://gr.seetv.cc/play/4235/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="MMA Junkie" group-title="TEST-SPORT 🏆",MMA Junkie
+http://gr.seetv.cc/play/5718/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Dubai Sports 2" group-title="TEST-SPORT 🏆",Dubai Sports 2
+http://gr.seetv.cc/play/5406/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Dubai Sports 3" group-title="TEST-SPORT 🏆",Dubai Sports 3
+http://gr.seetv.cc/play/5407/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Diema Sport HD" group-title="TEST-SPORT 🏆",Diema Sport HD
+http://gr.seetv.cc/play/51002/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Diema Sport 2 HD" group-title="TEST-SPORT 🏆",Diema Sport 2 HD
+http://gr.seetv.cc/play/51003/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Diema Sport 3 HD" group-title="TEST-SPORT 🏆",Diema Sport 3 HD
+http://gr.seetv.cc/play/51004/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Diema Sport 2 4K" group-title="TEST-SPORT 🏆",Diema Sport 2 4K
+http://gr.seetv.cc/play/51001/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Diema Sport 3 4K" group-title="TEST-SPORT 🏆",Diema Sport 3 4K
+http://gr.seetv.cc/play/51000/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV + PT" group-title="TEST-SPORT 🏆",SPORT TV + PT
+http://gr.seetv.cc/play/1967/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 1 PT" group-title="TEST-SPORT 🏆",SPORT TV 1 PT
+http://gr.seetv.cc/play/1968/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 2 PT" group-title="TEST-SPORT 🏆",SPORT TV 2 PT
+http://gr.seetv.cc/play/1969/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 3 PT" group-title="TEST-SPORT 🏆",SPORT TV 3 PT
+http://gr.seetv.cc/play/1970/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 4 PT" group-title="TEST-SPORT 🏆",SPORT TV 4 PT
+http://gr.seetv.cc/play/1971/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 5 PT" group-title="TEST-SPORT 🏆",SPORT TV 5 PT
+http://gr.seetv.cc/play/1972/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="SPORT TV 6 PT" group-title="TEST-SPORT 🏆",SPORT TV 6 PT
+http://gr.seetv.cc/play/1973/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="M+ Deportes ES" group-title="TEST-SPORT 🏆",M+ Deportes ES
+http://gr.seetv.cc/play/1974/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="M+ Deportes 2 ES" group-title="TEST-SPORT 🏆",M+ Deportes 2 ES
+http://gr.seetv.cc/play/1975/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="M+ Deportes 3 ES" group-title="TEST-SPORT 🏆",M+ Deportes 3 ES
+http://gr.seetv.cc/play/1976/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="M+ Deportes 4 ES" group-title="TEST-SPORT 🏆",M+ Deportes 4 ES
+http://gr.seetv.cc/play/1977/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="DAZN 1 PT" group-title="TEST-SPORT 🏆",DAZN 1 PT
+http://gr.seetv.cc/play/1978/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="DAZN 2 PT" group-title="TEST-SPORT 🏆",DAZN 2 PT
+http://gr.seetv.cc/play/1979/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="DAZN 1 ESPANA " group-title="TEST-SPORT 🏆",DAZN 1 ESPANA
+http://gr.seetv.cc/play/1980/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="DAZN 2 ESPAÑA" group-title="TEST-SPORT 🏆",DAZN 2 ESPAÑA
+http://gr.seetv.cc/play/1981/D70CC021CA87DF2/video.m3u8
+#EXTINF:0 tvg-name="Clarity4K Единоборства" group-title="TEST-SPORT 🏆",Clarity4K Единоборства
+http://gr.seetv.cc/play/4611/D70CC021CA87DF2/video.m3u8
+
+
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",МАТЧ ПРЕМЬЕР
+http://ott.server-iptv.live/208/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",МАТЧ ПРЕМЬЕР SD
+http://ott.server-iptv.live/0208/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Матч ТВ
+http://ott.server-iptv.live/207/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Матч! Футбол 1
+http://ott.server-iptv.live/202/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Матч! Футбол 2
+http://ott.server-iptv.live/203/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Матч! Футбол 3
+http://ott.server-iptv.live/204/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Окко Футбол HD
+http://ott.server-iptv.live/232/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",M Футбол 1 HD
+http://ott.server-iptv.live/233/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",M Футбол 2 HD
+http://ott.server-iptv.live/234/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",M Футбол 3 HD
+http://ott.server-iptv.live/235/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Футбол
+http://ott.server-iptv.live/230/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",U.TV
+http://ott.server-iptv.live/212/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Окко.Прайм Спорт
+http://ott.server-iptv.live/236/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Окко Спорт HD
+http://ott.server-iptv.live/238/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",M Спорт HD
+http://ott.server-iptv.live/237/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Матч! Игра
+http://ott.server-iptv.live/205/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Матч! Арена HD
+http://ott.server-iptv.live/206/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Матч! Арена
+http://ott.server-iptv.live/0206/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",МАТЧ! СТРАНА
+http://ott.server-iptv.live/209/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",МАТЧ! Боец
+http://ott.server-iptv.live/210/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Setanta Qazaqstan HD
+http://ott.server-iptv.live/228/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Setanta Eurasia HD
+http://ott.server-iptv.live/220/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Setanta Eurasia Plus
+http://ott.server-iptv.live/221/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Setanta Sports Ukraine HD
+http://ott.server-iptv.live/222/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Setanta Sports+ Ukraine HD
+http://ott.server-iptv.live/214/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Спорт онлайн
+http://ott.server-iptv.live/211/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",ViP Sport 3
+http://ott.server-iptv.live/241/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Eurosport 1 HD
+http://ott.server-iptv.live/200/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Eurosport 1 HD
+http://ott.server-iptv.live/0200/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Eurosport 2 HD
+http://ott.server-iptv.live/201/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Eurosport 2 HD
+http://ott.server-iptv.live/0201/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Viasat Sport
+http://ott.server-iptv.live/215/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Мир баскетбола
+http://ott.server-iptv.live/231/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",FightBox
+http://ott.server-iptv.live/224/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Удар HD
+http://ott.server-iptv.live/227/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Бокс ТВ
+http://ott.server-iptv.live/216/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",КХЛ HD
+http://ott.server-iptv.live/218/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",КХЛ ТВ
+http://ott.server-iptv.live/225/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Старт
+http://ott.server-iptv.live/226/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Суспільне Спорт
+http://ott.server-iptv.live/240/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="Cloudflare (🇺🇦)",Беларусь 5 BY
+http://ott.server-iptv.live/219/video.m3u8?token=A0c5dffe26&21yo=0?|User-Agent=http-user-agent=Lavf/56.15.102
+
+
+
+
+
+
+
+
+
+
+
